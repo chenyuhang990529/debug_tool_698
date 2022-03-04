@@ -1,0 +1,16 @@
+{
+    "PulseSensor":
+        {
+            "LatestVerison":"V22.03.01",
+            "Url":"https://gitee.com/chenyuhang990529/debug_tool_698/raw/master/debug_tool_698.zip",
+            "UpdateTime":"2022-03-01",
+                "ReleaseNote":"\n1.批量添加窗口自适应。\n2.参变量可以同时读取多个变量。\n3.参变量4000双击添加实时时间。"
+        },
+    "RGBContrl":
+        {
+            "LatestVerison":"V21.11.18",
+            "Url":"https://gitee.com/chenyuhang990529/debug_tool_698/raw/master/debug_tool_698.zip",
+            "UpdateTime":"2021-11-18",
+                "ReleaseNote":"版本说明"
+        }
+    }
